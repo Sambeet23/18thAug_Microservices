@@ -5,9 +5,9 @@ spring:
   cloud:
     server:
       git:
-        uri: https://github.com/Sambeet23/18thAug_Boot_Microservices.git
+        uri: https://github.com/Sambeet23/18thAug_Microservices.git
         default-label: main
         clone-on-start: true
-        search-paths: configs/18thaug
+        search-paths: configs/18Aug
 
     
